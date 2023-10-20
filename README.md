@@ -6,6 +6,9 @@ I love old school arcade games and I was thinking about some games that used ped
 
 I used a RaspberryPi 4B and a Hall effects magnetic sensor with some rare earth batteries. 
 
+Youtube video of the build:
+https://www.youtube.com/watch?v=nJPR0CrpYzg
+
 Download RetroPi OS:
 https://retropie.org.uk/download/
 
