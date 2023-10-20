@@ -5,6 +5,9 @@ I love old scholl arcade games and I was thinking about some games that used ped
 
 I used a RaspberryPi 4B and a Hall effects magnetic sensor with some rare earth batteries. 
 
+Download RetroPi OS:
+https://retropie.org.uk/download/
+
 RaspberryPi Pinout for GPIO's:
 https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
 
@@ -24,5 +27,6 @@ https://www.amazon.com/Compatible-Raspberry-Detection-Magnetism-Non-Contact/dp/B
 
 My exercise bike is a Schwinn 270...I think...doesn't really matter as this coudl be added to any exercise bike or even a street bike that is on a stand.
 
+I had a bunch of old buttons and Joystick laying around. You can pick them up pretty cheap online.
 
 ![IMG_6358](https://github.com/bdash9/RaspberryPi-RetroPi-Exercise-Bike-Game-Controller/assets/5065324/d5de33af-0f9e-4cb6-a416-ea8d48f49ba0)
