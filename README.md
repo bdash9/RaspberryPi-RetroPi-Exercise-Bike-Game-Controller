@@ -1,7 +1,8 @@
 # RaspberryPi-RetroPi-Exercise-Bike-Game-Controller
-Using a magnetic Hall sensor on my exercise bike in some old school arcade games!
 
-I love old scholl arcade games and I was thinking about some games that used pedals as part of the controller like ProCycle.
+I am using a magnetic Hall sensor on my exercise bike in some old school arcade games!
+
+I love old school arcade games and I was thinking about some games that used pedals as part of the controller like ProCycle.
 
 I used a RaspberryPi 4B and a Hall effects magnetic sensor with some rare earth batteries. 
 
